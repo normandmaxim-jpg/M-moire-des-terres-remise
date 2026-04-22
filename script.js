@@ -70,7 +70,7 @@ const archives = {
     titre: "Quartier industrielle Victoriaville",
     annee: "Photo d'archive — vers 1970",
     texte: "Sur la vue aérienne, on distingue un secteur organisé par <br> de nouvelles voies routières et de grands bâtiments, avec <br> le développement résidentiel qui avance à proximité.",
-    image: "images/Modifier/Vue aérienne secteur industriel STE-VICTOIRE 4.1.jpg"
+    image: "images/Modifier/sectionindu1970.jpg"
   },
 
     6: {
